@@ -1,0 +1,43 @@
+visual encodings
+graphical perception
+time-series data
+index chart
+stacked graph/ stream graph
+small multiples
+horizontal graphs
+data density
+statical distributions
+statical models
+exploratory data analysis
+stem-and-leaf plots
+Q-Q plots
+SPLOM (Scatter plot matrix)
+brushing-and-linking
+parallel coordinates
+maps
+cartographic proyection
+flow maps
+choropleth maps
+graduated symbol maps
+cartograms
+dorling cartogram 
+hierarchies
+node-link diagrams
+Reingold-Tilford algorithm
+dendrogram
+indented tree
+adjacency diagrams
+icicle layout
+sunburst layout
+enclosure diagrams
+treemap
+squatified treemap
+naive "slice-and-dice" subdivision
+Voronoi
+jigsaw treemap
+networks
+force-directed layouts
+arc diagrams
+seriation
+matrix views
+adjacency matrix
