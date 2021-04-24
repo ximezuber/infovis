@@ -1,0 +1,48 @@
+body {
+    background-color: #2a2a2a;
+    font-family: 'Patrick Hand', cursive;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #ffffff;
+    opacity: 0.8;
+    font-size: 350%;
+  }
+
+  h2 {
+    text-align: justify;
+    color: #ffffff;
+    opacity: 0.8;
+    font-size: 200%;
+    padding-left: 4%;
+  }
+
+  p {
+    color: #ffffff;
+    font-size: 80%;
+    opacity: 0.6;
+    text-align: left;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr ;
+    grid-template-rows: auto;
+    grid-gap: 10px;
+    
+    padding: 10px;
+  }
+
+  .grid-container > div {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+
+  .week_img {
+      max-width: 100%;
+  }
+
+  .key_img{
+    max-width: 80%;
+  }
